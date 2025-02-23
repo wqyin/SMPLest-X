@@ -21,7 +21,7 @@ This work is the extended version of [SMPLer-X](https://arxiv.org/abs/2309.17448
 ## News
 
 - [2025-02-17] Pretrained model available for download.
-- [2025-02-14] 💌💌💌 Brand new codebase released for trainig, testing and inference.
+- [2025-02-14] 💌💌💌 Brand new codebase released for training, testing and inference.
 - [2025-01-20] Paper released on [arXiv](https://arxiv.org/abs/2501.09782).
 - [2025-01-08] Project page created.
 
@@ -76,7 +76,7 @@ The file structure should be like:
 ## Inference 
 
 - Place the video for inference under `SMPLest-X/demo`
-- Prepare the the pretrained model under `SMPLest-X/pretrained_models`
+- Prepare the pretrained model under `SMPLest-X/pretrained_models`
 - Pretrained YOLO model will be downloaded automatically during the first time usage.
 - Inference output will be saved in `SMPLest-X/demo`
 
